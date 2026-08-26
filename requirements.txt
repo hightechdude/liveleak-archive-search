@@ -1,0 +1,5 @@
+customtkinter
+cdx_toolkit
+tqdm
+elasticsearch
+pyinstaller
