@@ -1,1 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+dist_installer/
+*.spec
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Local test output
+*.csv
