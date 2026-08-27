@@ -28,12 +28,10 @@ The tool is designed for research, OSINT, and historical web analysis. It lets y
 
 ---
 
-## Screenshots
+## Screenshot
 
-> Add screenshots here after publishing:
-> - Main window
-> - Results table
-> - About dialog
+<img width="2710" height="1880" alt="image" src="https://github.com/user-attachments/assets/01c308b8-6776-46cc-b7f4-3525e9c6357b" />
+
 
 ---
 
